@@ -2,7 +2,9 @@
 
 ## Integrantes
 **Alejandro Cadavid Velez:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia-Seccional de Uraba,Campus Turbo.
+
 **Juan Pablo Osorio Osorio:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia-Seccional oriente.
+
  **Manuela Lopez Caro:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia - Sede Medellin.
 
 ## *Habilidades y Fortalezas*
