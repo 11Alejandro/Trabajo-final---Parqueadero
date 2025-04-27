@@ -10,6 +10,10 @@
 ## 2 *Habilidades y Fortalezas*
 **Alejandro Cadavid Velez:**
 **Juan Pablo Osorio Osorio:**
+
+
+
+
 **Manuela Lopez Caro:** Posee habilidades como manejo del tiempo, excel basico, resolucion de problemas, ingles, etc. Mientras que sus fortalezas son: la proactividad, la resilencia, el trabajo en equipo y la empatia.
 
 
