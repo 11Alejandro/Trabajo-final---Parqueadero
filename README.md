@@ -8,7 +8,9 @@
  **Manuela Lopez Caro:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia - Sede Medellin.
 
 ## 2 *Habilidades y Fortalezas*
-
+**Alejandro Cadavid Velez:**
+**Juan Pablo Osorio Osorio:**
+**Manuela Lopez Caro:** Posee habilidades como manejo del tiempo, excel basico, resolucion de problemas, ingles, etc. Mientras que sus fortalezas son: la proactividad, la resilencia, el trabajo en equipo y la empatia.
 
 
 ## 3 *Dellates del Proyecto*
