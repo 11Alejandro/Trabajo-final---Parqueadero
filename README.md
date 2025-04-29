@@ -1,36 +1,66 @@
-# Autopark Manage
+# Administración del estacionamiento Autopark Manage
 
-## 1 Integrantes
-**Alejandro Cadavid Velez:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia-Seccional de Uraba,Campus Turbo.
+## Integrantes
+**Alejandro Cadavid Vélez:** Estudiante del programa de Ingeniería Industrial de la Universidad de Antioquia – Seccional Urabá, Campus Turbo.
 
-**Juan Pablo Osorio Osorio:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia-Seccional oriente.
+**Juan Pablo Osorio Osorio:** Estudiante del programa de Ingeniería Industrial de la Universidad de Antioquia – Seccional Oriente.
 
- **Manuela Lopez Caro:** Estudiante del programa de Ingenieria Industrial de la Universidad de Antioquia - Sede Medellin.
+**Manuela López Caro:** Estudiante del programa de Ingeniería Industrial de la Universidad de Antioquia – Sede Medellín.
 
-## 2 *Habilidades y Fortalezas*
-**Alejandro Cadavid Velez:**
+## Habilidades y Fortalezas
+### **Alejandro Cadavid Vélez**  
+(Información pendiente)  
 
-**Juan Pablo Osorio Osorio:** Poseo diversas habilidades como: Escucha activa, colaboración, adaptabilidad, empatía, resolución de conflictos, liderazgo, creatividad, gestión del tiempo, las cuales podre a disposición del grupo para realizar un excelente trabajo.
+### **Juan Pablo Osorio Osorio**  
+Poseo diversas habilidades como:
+- Escucha activa  
+- Colaboración  
+- Adaptabilidad  
+- Empatía  
+- Resolución de conflictos  
+- Liderazgo  
+- Creatividad  
+- Gestión del tiempo  
 
+Las pondré a disposición del grupo para realizar un excelente trabajo.  
 
-**Manuela Lopez Caro:** Posee habilidades como manejo del tiempo, excel basico, resolucion de problemas, ingles, etc. Mientras que sus fortalezas son: la proactividad, la resilencia, el trabajo en equipo y la empatia.
+### **Manuela López Caro**  
+Habilidades:  
+- Manejo del tiempo  
+- Excel básico  
+- Resolución de problemas  
+- Inglés  
 
+Fortalezas:  
+- Proactividad  
+- Resiliencia  
+- Trabajo en equipo  
+- Empatía  
 
-## 3 *Dellates del Proyecto*
-**Nombre:** Autopark Manage
+## Detalles del Proyecto  
+**Nombre:** Autopark Manage  
 
-**Descripcion:** Se realizara una consola en Python para la administración de un parqueadero. Esta consoló permitirá la gestión de usuarios, ingresos y retiros de vehículos, así como el manejo de cobros, facturación y generación de reportes administrativos.
+**Descripción:**  
+Este proyecto consiste en el desarrollo de una consola en **Python** para la administración de un parqueadero. La aplicación permitirá:  
+- Gestión de usuarios  
+- Registro de ingresos y retiros de vehículos  
+- Cálculo de cobros y facturación  
+- Generación de reportes administrativos  
 
-![image](https://github.com/user-attachments/assets/079ed5cd-228e-49fe-95e0-d0fabad7cbdf)
+![image](https://github.com/user-attachments/assets/079ed5cd-228e-49fe-95e0-d0fabad7cbdf)  
 
-## 4 Software
-### Licencia del software
-© 2025 por está bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional 
-### 
+## Software  
+### **Licencia**  
+© 2025 bajo **Creative Commons Atribución-CompartirIgual 4.0 Internacional**  
 
+## Reporte de Visión  
+El propósito de este trabajo es desarrollar un programa para gestionar la información de los usuarios de un parqueadero. El sistema almacenará datos como:  
+- Nombre del propietario  
+- Placa del vehículo  
+- Tiempo promedio de estancia  
 
-## 5 Reporte de vision
-El proposito de este trabajo es crear un programa para almacenar los datos de los usuarios de un parqueadero, es decir; nombre del propietario, placa, promedio de tiempo que estuvo en el parqueadero, etc. De tal forma que le facilite al administrador tener un promedio de los vehiculos que igresan diariamente alli. Por su parte el programa permite que el usuario entienda como se manejan las tarifas dentro de ese establecimiento.
+Esto facilitará al administrador la gestión del flujo de vehículos diarios y la organización de tarifas dentro del establecimiento.  
+
 
 ## Especificación de requisitos
 
