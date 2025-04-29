@@ -34,7 +34,7 @@ El proposito de este trabajo es crear un programa para almacenar los datos de lo
 
 ## Especificación de requisitos
 
- **Requisitos funcionales:**
+ **Requisitos funcionales**
 
 **Registrar usuarios con validaciones específicas:**
 
@@ -44,9 +44,10 @@ El proposito de este trabajo es crear un programa para almacenar los datos de lo
 
 **Placa:** exactamente seis caracteres (tres letras seguidas de tres números). ​
 
+**Ingresar vehículos de usuarios registrados, validando datos y generando recibos.**
 
-**Ingresar vehículos de usuarios registrados, validando datos y generando recibos. ​
-Retirar vehículos, calculando el tiempo de parqueo y el cobro:**
+​
+**Retirar vehículos, calculando el tiempo de parqueo y el cobro:**
 
 **Cobro por hora:** $7,000 por hora completa. ​
 
@@ -69,10 +70,11 @@ Retirar vehículos, calculando el tiempo de parqueo y el cobro:**
 
 
 **Exportar resultados a un archivo plano (CSV).**
+
 **Registrar eventos en un log con detalles como fecha, hora, acción realizada y tiempo de ejecución. ​**
 
 
-**Requisitos no funcionales:**
+**Requisitos no funcionales**
 
 **Rendimiento:** El software debe ser capaz de procesar las operaciones de manera eficiente, sin demoras significativas.
 
