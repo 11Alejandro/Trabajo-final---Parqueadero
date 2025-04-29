@@ -32,7 +32,7 @@
 ## 5 Reporte de vision
 El proposito de este trabajo es crear un programa para almacenar los datos de los usuarios de un parqueadero, es decir; nombre del propietario, placa, promedio de tiempo que estuvo en el parqueadero, etc. De tal forma que le facilite al administrador tener un promedio de los vehiculos que igresan diariamente alli. Por su parte el programa permite que el usuario entienda como se manejan las tarifas dentro de ese establecimiento.
 
-## Especificación de Requisitos
+## Especificación de requisitos
 
 ### Requisitos Funcionales
 
