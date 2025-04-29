@@ -9,7 +9,7 @@
 
 ## 2 *Habilidades y Fortalezas*
 **Alejandro Cadavid Velez:**
-**Juan Pablo Osorio Osorio:**
+**Juan Pablo Osorio Osorio:** Poseo diversas habilidades como: Escucha activa, colaboración, adaptabilidad, empatía, resolución de conflictos, liderazgo, creatividad, gestión del tiempo, las cuales podre a disposición del grupo para realizar un excelente trabajo.
 
 
 
