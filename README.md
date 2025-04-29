@@ -32,62 +32,45 @@
 ## 5 Reporte de vision
 El proposito de este trabajo es crear un programa para almacenar los datos de los usuarios de un parqueadero, es decir; nombre del propietario, placa, promedio de tiempo que estuvo en el parqueadero, etc. De tal forma que le facilite al administrador tener un promedio de los vehiculos que igresan diariamente alli. Por su parte el programa permite que el usuario entienda como se manejan las tarifas dentro de ese establecimiento.
 
-## Especificación de requisitos
+# Especificación de Requisitos
 
- **Requisitos funcionales**
+## Requisitos Funcionales
 
-**Registrar usuarios con validaciones específicas:**
+### Registro de Usuarios con Validaciones Específicas
+- **Nombre y apellido:** mínimo 3 letras, sin números.
+- **Documento:** entre 3 y 15 dígitos, solo números.
+- **Placa:** exactamente 6 caracteres (3 letras seguidas de 3 números).
 
-**Nombre y apellido:** mínimo tres letras, sin números. ​
+### Gestión de Vehículos
+- **Ingreso de vehículos:** solo de usuarios registrados, validando datos y generando recibos.
+- **Retiro de vehículos:** cálculo del tiempo de parqueo y cobro automático.
 
-**Documento:** entre 3 y 15 dígitos, solo números. ​
+### Tarifas de Cobro
+- **Cobro por hora:** $7,000 por cada hora completa.
+- **Cobro por cuartos de hora:** $1,500 por cada cuarto de hora.
+- **Pago mínimo:** $7,000 si el total es menor a una hora completa.
 
-**Placa:** exactamente seis caracteres (tres letras seguidas de tres números). ​
+### Reportes Administrativos
+El módulo de administración debe permitir la generación de reportes con:
+- Total de vehículos registrados, retirados y en parqueo.
+- Total de pagos realizados.
+- Tiempo promedio de estancia por vehículo.
+- Vehículos con el mayor y menor tiempo de parqueo.
+- Lista de usuarios registrados.
 
-**Ingresar vehículos de usuarios registrados, validando datos y generando recibos.**
+### Exportación de Datos
+- Generación de archivos CSV con los resultados.
+- Registro de eventos en un log con detalles como fecha, hora, acción realizada y tiempo de ejecución.
+
+## Requisitos No Funcionales
+
+- **Rendimiento:** Procesamiento eficiente, sin demoras significativas.
+- **Usabilidad:** Interfaz de consola intuitiva y fácil de usar.
+- **Fiabilidad:** Validación de datos robusta para evitar errores en registro y cobros.
+- **Compatibilidad:** Ejecución en sistemas operativos compatibles con Python.
+- **Seguridad:** Acceso al módulo de administración mediante usuario y contraseña.
+- **Accesibilidad:** Cumplimiento de estándares básicos para facilitar el uso por cualquier usuario.
+- **Versionado:** Control de versiones en GitHub para trazabilidad del desarrollo.
+
 
 ​
-**Retirar vehículos, calculando el tiempo de parqueo y el cobro:**
-
-**Cobro por hora:** $7,000 por hora completa. ​
-
-**Cobro por cuartos de hora:** $1,500 por cada cuarto de hora. ​
-
-**Pago mínimo:** $7,000 si el total es menor a una hora completa. ​
-
-
-**Generar reportes administrativos en el módulo de administrador:**
-
--Total de vehículos registrados, retirados y sin retirar. ​
-
--Total de pagos realizados.
-
--Tiempo promedio de estancia por vehículo. ​
-
--Vehículo con tiempo de parqueo máximo y mínimo. ​
-
--Lista de usuarios.
-
-
-**Exportar resultados a un archivo plano (CSV).**
-
-**Registrar eventos en un log con detalles como fecha, hora, acción realizada y tiempo de ejecución. ​**
-
-
-**Requisitos no funcionales**
-
-**Rendimiento:** El software debe ser capaz de procesar las operaciones de manera eficiente, sin demoras significativas.
-
-**Usabilidad:** La interfaz de consola debe ser amigable y fácil de usar para los usuarios. ​
-
-**Fiabilidad:** El sistema debe garantizar la correcta validación de datos y evitar errores en el registro y cálculo de cobros. ​
-
-**Compatibilidad:** El programa debe ser ejecutable en sistemas operativos compatibles con Python.
-
-**Seguridad:** Validación de acceso al módulo de administración mediante usuario y contraseña. ​
-
-**Accesibilidad:** Cumplir con estándares básicos para facilitar su uso por cualquier usuario. ​
-
-**Versionado:** Mantener un control de versiones en GitHub para garantizar la trazabilidad del desarrollo. ​
-
-Estos requisitos aseguran que el software cumpla con las necesidades funcionales y operativas del parqueadero. ​
