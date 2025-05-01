@@ -9,7 +9,15 @@
 
 ## Habilidades y Fortalezas
 ### **Alejandro Cadavid Vélez**  
-(Información pendiente)  
+#### Habilidades
+-Excel intermedio
+-Comunicacion asertiva
+-Pensamiento critico
+-Flexibilidad y adaptacion
+#### Fortalezas
+-Responsabilidad
+-Organizacion
+-Compromiso
 
 ### **Juan Pablo Osorio Osorio**  
 Poseo diversas habilidades como:
