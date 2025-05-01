@@ -9,12 +9,13 @@
 
 ## Habilidades y Fortalezas
 ### **Alejandro Cadavid Vélez**  
-#### Habilidades
+Habilidades:
 -Excel intermedio
 -Comunicacion asertiva
 -Pensamiento critico
 -Flexibilidad y adaptacion
-#### Fortalezas
+
+Fortalezas:
 -Responsabilidad
 -Organizacion
 -Compromiso
