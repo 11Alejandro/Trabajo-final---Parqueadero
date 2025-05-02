@@ -66,9 +66,10 @@ Este proyecto consiste en el desarrollo de una consola en **Python** para la adm
 El propósito de este trabajo es desarrollar un programa para gestionar la información de los usuarios de un parqueadero. El sistema almacenará datos como:  
 - Nombre del propietario  
 - Placa del vehículo  
-- Tiempo promedio de estancia  
+- Tiempo de estancia
+- Recibo en pantalla 
 
-Esto facilitará al administrador la gestión del flujo de vehículos diarios y la organización de tarifas dentro del establecimiento.  
+Esto facilitará al administrador la gestión del flujo vehícular díario mediante la creacion de promedios por la duracion de los vehículos al interior del parqueadero y la organización de tárifas gracias a la agilidad del sowftware.
 
 
 ## Especificación de requisitos
