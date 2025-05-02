@@ -112,14 +112,6 @@ El módulo de administración debe permitir la generación de reportes con:
 - **Versionado:** Control de versiones en GitHub para trazabilidad del desarrollo.
 
 ## Cronograma del proyecto - Diagrama de Gantt
-Evolución anual de la Tasa de Desempleo						
-Fecha	España 	Estados Unidos	Reino Unido	Suiza	Australia	Colombia
-2020	0,70%	1,00%	0,25%	0,75%	0,10%	1,75%
-2019	0,40%	1,50%	0,15%	0,75%	0,75%	2,00%
-2018	0,16%	2,25%	0,75%	0,75%	1,50%	4,25%
-2017	0,00%	1,25%	0,50%	0,75%	1,50%	4,75%
-2016	0,00%	0,25%	0,25%	0,75%	1,50%	7,56%
-![image](https://github.com/user-attachments/assets/1ec0ed21-fde3-43aa-8b3d-ece2dc1ea8c3)
 
 
 ​
