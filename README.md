@@ -111,9 +111,8 @@ El módulo de administración debe permitir la generación de reportes con:
 - **Accesibilidad:** Cumplimiento de estándares básicos para facilitar el uso por cualquier usuario.
 - **Versionado:** Control de versiones en GitHub para trazabilidad del desarrollo.
 
-## Cronograma del proyecto - Diagrama de Gantt
-																
-![image](https://github.com/user-attachments/assets/ebfd7f49-e0af-4af7-bb26-3c61156443eb)
+## Cronograma del proyecto - Diagrama de Gantt																										
+![image](https://github.com/user-attachments/assets/7d4dbb0a-79ed-4496-bcad-1ce119dd96fd)
 
 ### Presupuesto del Proyecto en tiempo equivalente a valor SMLV
 
