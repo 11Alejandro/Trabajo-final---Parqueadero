@@ -9,7 +9,7 @@
 
 ## Habilidades y Fortalezas
 ### **Alejandro Cadavid Vélez**  
-Habilidades 
+Habilidades: 
 - Excel intermedio  
 - Pensamiento critico   
 - Flexibilidad y adaptabilidad 
@@ -21,17 +21,22 @@ Fortalezas:
 - Organizacion
 
 ### **Juan Pablo Osorio Osorio**  
-Poseo diversas habilidades como:
+Habilidades:
 - Escucha activa  
 - Colaboración  
-- Adaptabilidad  
 - Empatía  
 - Resolución de conflictos  
-- Liderazgo  
+- Liderazgo   
+- Gestión del tiempo
+  
+Fortalezas:
+- Comunicación efectiva
+- Resolución de problemas
+- Pensamiento crítico
+- Trabajo en equipo
+- Adaptabilidad
+- Organización
 - Creatividad  
-- Gestión del tiempo  
-
-Las pondré a disposición del grupo para realizar un excelente trabajo.  
 
 ### **Manuela López Caro**  
 Habilidades:  
