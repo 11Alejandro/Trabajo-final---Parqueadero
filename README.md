@@ -113,5 +113,18 @@ El módulo de administración debe permitir la generación de reportes con:
 
 ## Cronograma del proyecto - Diagrama de Gantt
 
+N. Actividad	 Actividad	Descripción	Semana 	Inicio	Final	Semana 1	Semana 2	Semana 3	Semana 4	Semana 5	Semana 6	Semana 7	Semana 8	Semana 9	Semana 10	Semana 11	Semana 12	Semana 13	Semana 14	Semana 15	Semana 16
+1	Conformación del grupo de trabajo	Conformación del equipo de trabajo para el desarrollo del trabajo final del curso.	6	14/04/2025	20/04/2025																
+2	Reunión inicial y actas	Reunión para definir responsabilidades y elaborar actas de entendimiento, colaboración y responsabilidad en función del entregable 1. 	7	21/04/2025	25/04/2025																
+3	Descripción de los vínculos académicos.	Descripción de los vínculos académicos de cada miembro del equipo con la Universidad. Esta descripción incluye: nombre, tipo de vinculo académico, programa y sede, campus o seccional a la cual pertenece.	8	26/04/2025	2/05/2025																
+4	Descripción del proyecto	Descripción general del proyecto. Esta descripción incluye el diseño del nombre y logotipo del proyecto, así como sus funcionalidades, es decir, el propósito y finalidad del proyecto.	8	27/05/2025	2/05/2025																
+5	Selección de licencia y descripción del software	Definir la licencia con la cual se registrará el software. Para esto, se hará uso de: https://chooser-beta.creativecommons.org. Además, se definirán los requisitos funcionales y no funcionales del software a implementar.	8	27/05/2025	2/05/2025																
+6	Plan de versionado	Diseñar y establecer un control de versiones que registre los cambios realizados al software a lo largo del proyecto. Cada versión debe documentarse con fecha, descripción del cambio y responsable.	9	5/05/2025	11/05/2025																
+7	Organización del código  	Crear y mantener una carpeta llamada src en el repositorio de GitHub que contenga todos los archivos y códigos fuente del programa, con estructura clara y comentada.	10	12/05/2025	18/05/2025																
+8	Elaboración del manual de usuario 	Crear y mantener una carpeta llamada doc en el repositorio de GitHub que contenga el archivo donde se establesca el funcionamiento del programa paso a paso e instrucciones de uso. 	11	19/05/2025	25/05/2025																
+9	Configuración de un nuevo repositorio GitHub	Crear el repositorio en GitHub con una cuenta institucional UdeA, organizarlo con los entregables requeridos y vincular a todos los integrantes del equipo.	12	26/05/2025	1/06/2025																
+10	Sustentación del proyecto	Preparar la sustentación del proyecto para la semana 16, en donde todos los integrantes deberán tener dominio del software, demostrar su funcionalidad y responder preguntas del profesor.	16	23/06/2025	27/06/2025																
+![image](https://github.com/user-attachments/assets/0338f512-3e10-456c-907f-afb33323f767)
+
 
 ​
