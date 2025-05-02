@@ -33,18 +33,7 @@ Poseo diversas habilidades como:
 
 Las pondré a disposición del grupo para realizar un excelente trabajo.  
 
-### **Manuela López Caro**  
-Habilidades:  
-- Manejo del tiempo  
-- Excel básico  
-- Resolución de problemas  
-- Inglés  
 
-Fortalezas:  
-- Proactividad  
-- Resiliencia  
-- Trabajo en equipo  
-- Empatía  
 
 ## Detalles del Proyecto  
 **Nombre:** Autopark Manage  
