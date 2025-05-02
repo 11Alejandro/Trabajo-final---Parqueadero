@@ -69,7 +69,7 @@ El propósito de este trabajo es desarrollar un programa para gestionar la infor
 - Tiempo de estancia
 - Recibo en pantalla 
 
-Esto facilitará al administrador la gestión del flujo vehícular díario mediante la creacion de promedios por la duracion de los vehículos al interior del parqueadero y la organización de tárifas gracias a la agilidad del sowftware.
+Esto facilitará al administrador la gestión del flujo vehícular díario mediante la creacion de promedios por la duracion de los vehículos al interior del parqueadero y la organización de tárifas gracias a la ágilidad del sowftware.
 
 
 ## Especificación de requisitos
