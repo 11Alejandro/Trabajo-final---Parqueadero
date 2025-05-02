@@ -115,5 +115,9 @@ El módulo de administración debe permitir la generación de reportes con:
 																
 ![image](https://github.com/user-attachments/assets/ebfd7f49-e0af-4af7-bb26-3c61156443eb)
 
+### Presupuesto del Proyecto en tiempo equivalente a valor SMLV
+
+![image](https://github.com/user-attachments/assets/ca0b4ea0-e441-4cdb-a5db-71888b7bf7a7)
+
 
 ​
