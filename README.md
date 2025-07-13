@@ -68,14 +68,27 @@ Este proyecto consiste en el desarrollo de una consola en **Python** para la adm
 © 2025 bajo **Creative Commons Atribución-CompartirIgual 4.0 Internacional**  
 
 ## Reporte de Visión  
-El propósito de este trabajo es desarrollar un programa para gestionar la información de los usuarios de un parqueadero. El sistema almacenará datos como:  
-- Nombre del propietario  
-- Placa del vehículo  
-- Tiempo de estancia
-- Recibo en pantalla 
+El propósito de este trabajo es diseñar y desarrollar **Autopark Manage**, un sistema integral de gestión para parqueaderos que permita controlar eficientemente el ingreso, registro, estancia y salida de vehículos, centralizando la información de los usuarios y facilitando la administración del flujo vehicular.
+El software almacenará y gestionará datos clave como:
+- Nombre y apellido del usuario
+- Número de documento, el cual será  el identificador del usuario en el sistema.
+- Placa del vehículo
+- Hora y fecha de ingreso y salida
+- Tiempo total de estancia
+- Cálculo y visualización del recibo de pago
+- Reportes administrativos como historial de retiros, permanencias y total de usuario registrados.
 
-Esto facilitará al administrador la gestión del flujo vehícular díario mediante la creacion de promedios por la duracion de los vehículos al interior del parqueadero y la organización de tárifas gracias a la ágilidad del sowftware.
+### **Funcionalidades clave del sistema**
+- Registro y validación automática de usuarios previos a su registro en el sistema. 
+- Ingreso y retiro de vehículos con control de disponibilidad de celdas (máximo 64), validación de horarios, registro previo del usuario y cobro automático con emisión automática del recibo de pago en pantalla, con desglose del tiempo de permanencia y la tarifa aplicada.
+- Reportes administrativos en los cuales se podrán visualizar aspectos claves de la administración y gestión del parqueadero, tales como; número de usuarios, cantidad de vehículos en el parqueadero, tiempos de estadía (mayor y menor) y cantidad de vehículos registrados. 
 
+
+### **Acceso y roles de usuario**
+- Los usuarios generales (clientes del parqueadero) solo interactuaran presencialmente en el punto de ingreso, registrando sus datos mediante el operador.
+- La administradores  accederán mediante usuario y contraseña al módulo de administración, desde donde pueden visualizar todos los registros y reportes automáticos.
+
+A manera de conclusión y resumen, el sistema de gestión de **Autopark Manage** representara una solución integral y altamente beneficiosa para cualquier parqueadero, ya que automatiza los procesos de registro, control y retiro de vehículos, reduciendo significativamente los errores humanos y optimizando el tiempo. En este sentido, su implementación permite una gestión más organizada de los espacios disponibles, el control preciso de los tiempos de estancia y la generación automática de reportes. Además, mejora la transparencia en el cobro de tarifas, facilita la toma de decisiones administrativas mediante estadísticas confiables. 
 
 ## Especificación de requisitos
 
@@ -118,7 +131,8 @@ El módulo de administración debe permitir la generación de reportes con:
 - **Versionado:** Control de versiones en GitHub para trazabilidad del desarrollo.
 
 ## Cronograma del proyecto - Diagrama de Gantt																										
-![image](https://github.com/user-attachments/assets/7d4dbb0a-79ed-4496-bcad-1ce119dd96fd)
+<img width="973" height="606" alt="image" src="https://github.com/user-attachments/assets/9caa3f68-3dc5-4862-bfb4-c707c11dfafd" />
+
 
 ### Presupuesto del Proyecto en tiempo equivalente a valor SMLV
 
